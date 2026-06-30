@@ -11,6 +11,10 @@ Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la inte
   * *Tecnologías:* Frontend reactivo, optimización de assets multimedia y arquitectura lógica compleja.
   * *(Nota: El código fuente se mantiene bajo repositorio privado por motivos de propiedad intelectual y seguridad).*
 
+<p align="center">
+  <img src="Inazudle_Logo.png" width="300" alt="Inazudle Logo" />
+</p>
+
 ---
 
 ### 🛠️ Herramientas y Tecnologías
