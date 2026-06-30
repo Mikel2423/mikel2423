@@ -1,7 +1,7 @@
 # ¡Hola! Soy Miquel 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario-github&label=Perfil%20Visitado&color=007acc&style=flat-down" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=mikel2423&label=Perfil%20Visitado&color=007acc&style=flat-down" alt="Contador de visitas" />
 </p>
 
 Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la intersección entre el desarrollo web moderno, la analítica técnica y la creación de experiencias multimedia interactivas.
@@ -28,11 +28,11 @@ Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la inte
 
 ---
 
-### 📊 Mis Estadísticas (Animadas)
+### 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=tokyonight" alt="Racha de contribuciones" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikel2423&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikel2423&theme=tokyonight" alt="Racha de contribuciones" width="48%" />
 </p>
 
 ---
