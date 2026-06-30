@@ -1,7 +1,7 @@
 # ¡Hola! Soy Miquel 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mikel2423&label=Perfil%20Visitado&color=007acc&style=flat-down" alt="Contador de visitas" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=180&section=header&text=Multimedia%20%7C%20Desarrollo&fontSize=40&animation=twinkling&theme=dark" width="100%" />
 </p>
 
 Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la intersección entre el desarrollo web moderno, la analítica técnica y la creación de experiencias multimedia interactivas.
@@ -19,20 +19,10 @@ Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la inte
 
 ### 🛠️ Herramientas y Tecnologías
 
-<!-- Animación de habilidades con iconos oficiales de color -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css,py,vscode,github,git,blender,unity&theme=dark" />
   </a>
-</p>
-
----
-
-### 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikel2423&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikel2423&theme=tokyonight" alt="Racha de contribuciones" width="48%" />
 </p>
 
 ---
