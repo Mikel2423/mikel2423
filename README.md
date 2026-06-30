@@ -1,9 +1,5 @@
 # ¡Hola! Soy Miquel 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=180&section=header&text=Multimedia%20%7C%20Desarrollo&fontSize=40&animation=twinkling&theme=dark" width="100%" />
-</p>
-
 Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la intersección entre el desarrollo web moderno, la analítica técnica y la creación de experiencias multimedia interactivas.
 
 ---
@@ -21,7 +17,7 @@ Graduado en **Tecnología Digital y Multimedia** por la UPV. Me apasiona la inte
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,py,vscode,github,git,blender,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ps,pr,js,react,html,css,py,vscode,github,git,blender,unity&theme=dark" />
   </a>
 </p>
 
